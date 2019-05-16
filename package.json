@@ -1,0 +1,22 @@
+{
+  "name": "whats_my_status",
+  "version": "1.0.0",
+  "description": "What I know, what I somewhat know and what I want to learn.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lifeLessCoder/whats_my_status.git"
+  },
+  "author": "livelycoder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lifeLessCoder/whats_my_status/issues"
+  },
+  "homepage": "https://github.com/lifeLessCoder/whats_my_status#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
+}
