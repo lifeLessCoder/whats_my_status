@@ -4,7 +4,7 @@ var data = {
   what_i_want_to_learn:
     "1.Data Science\n2.Data structures and Algorithms\n3.Designing\n4.Flutter\n",
   what_i_somewhat_know:
-    "1.Nodejs\n2.Web Development\n",
+    "1.Nodejs\n2.Web Development\n3.Basics of ML\n",
   what_i_somewhat_want_to_learn:
     "1.GCP\n2.Kubernetes\n"
  };
